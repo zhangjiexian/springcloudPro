@@ -1,4 +1,11 @@
 zhangjiexian:
-        name:18222968665
-        sex:man
-        hobit:movie
+  name: hahahah
+server:
+  port: 22222
+spring:
+  application:
+    name: xiaofei
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
