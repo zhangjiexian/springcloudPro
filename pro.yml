@@ -4,7 +4,7 @@ server:
   port: 22222
 spring:
   application:
-    name: xiaofei
+    name: pro
 eureka:
   client:
     service-url:
